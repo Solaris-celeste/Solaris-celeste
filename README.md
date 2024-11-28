@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Solaris-celeste
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning object oriented programming and graph theories
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data structures, CSAPP and Automat theory
+- 💞️ I’m looking to collaborate on Mixture of Experts models
 - 📫 How to reach me :
 - zhangmh23@mails.tsinghua.edu.cn
 - or
 - 17326880198@163.com
-- 😄 Pronouns: damn it, physics is wrong!
+- 😄 Pronouns: Damn it, physics is wrong!
 - ⚡ Fun fact: ...
 
 <!---
