@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solaris-celeste
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Data structures, CSAPP and Automata theory
+- 🌱 I’m currently learning Software Engineering, Introduction to AI, and Digital Logic Circuits.
 - 💞️ I’m looking to collaborate on Mixture of Experts models
 - 📫 How to reach me :
 - zhangmh23@mails.tsinghua.edu.cn
