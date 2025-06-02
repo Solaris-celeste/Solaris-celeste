@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Solaris-celeste
+- 👋 Hi, I’m @Silky
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Software Engineering, Introduction to AI, and Digital Logic Circuits.
-- 💞️ I’m looking to collaborate on Mixture of Experts models
+- 💞️ I’m looking to collaborate on Mixture of Experts models and on-device AI
 - 📫 How to reach me :
 - zhangmh23@mails.tsinghua.edu.cn
 - or
