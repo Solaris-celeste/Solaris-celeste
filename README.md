@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Silky
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Software Engineering, Introduction to AI, and Digital Logic Circuits.
-- 💞️ I’m looking to collaborate on mobile AI agents.
+- 🌱 I’m currently learning Computer Organization and Design, Signal Processing, Compiler Principles and more.
+- 💞️ I’m looking to collaborate on BGP hijacking detection and prevention.
 - 📫 How to reach me :
 - zhangmh23@mails.tsinghua.edu.cn
 - or
